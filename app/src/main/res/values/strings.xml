@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">ViewPagerTabLayoutExample</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    
+    <string name="selection">Portugal</string>
+    <string name="eq1">Real madrid</string>
+    <string name="eq2">Juventus</string>
+    <string name="eq3">Manchester U</string>
+    <string name="team">Equipos</string>
+
+    <string name="pac">PAC</string>
+    <string name="dri">DRI</string>
+    <string name="sho">SHO</string>
+    <string name="def">DEF</string>
+    <string name="pas">PAS</string>
+    <string name="phy">PHY</string>
+
+    <string name="str_history">Cristiano Ronaldo dos Santos Aveiro, conocido como Cristiano Ronaldo, es un futbolista portugués. Juega como extremo izquierdo o delantero y su equipo actual es el Al-Nassr F. C. de la Liga Profesional Saudí.​Es internacional absoluto con la selección de Portugal, de la cual es capitán y máximo goleador histórico.</string>
 </resources>
